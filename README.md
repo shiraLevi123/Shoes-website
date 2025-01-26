@@ -42,8 +42,3 @@
 
 ---
 
-## 🚀 איך להריץ את הפרויקט
-1. יש להוריד את קבצי הפרויקט:
-   ```bash
-   git clone https://github.com/username/shoestore-website.git
-
